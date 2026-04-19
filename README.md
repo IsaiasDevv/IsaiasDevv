@@ -181,6 +181,24 @@ Meu nome é Isaías Correia De Morais, tenho 20 anos de idade sou natural do est
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
 />
 
+<img 
+    align = "left"
+    alt = "BOOTSTRAP"
+    Title = "BOOTSTRAP"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+
+<img 
+    align = "left"
+    alt = "SAAS"
+    Title = "SAAS"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+/>
+
 <br>
 
 
