@@ -13,6 +13,7 @@ Meu nome é Isaías Correia De Morais, tenho 20 anos de idade sou natural do est
 ---
 
 ### 🪛 LInguagens e Tecnologias 
+<br>
 
 
 
@@ -181,6 +182,7 @@ Meu nome é Isaías Correia De Morais, tenho 20 anos de idade sou natural do est
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
 />
 
+<br>
 
 
 <br/>
