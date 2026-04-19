@@ -1,12 +1,20 @@
 #  👨‍💻 Isaías Dev
 
+<br>
+
 **`Formação em Desenvolvedor FullStack`**
 
+<br>
+
 Meu nome é Isaías Correia De Morais, tenho 20 anos de idade sou natural do estado de Goiás. Faço o curso de Análise e Desenvolvimento de Sistemas na PUC GOIÁS, sou muito envolvente por tecnologia gosto de estar atento sobre noticias, novidades da área, oportunidade de emprego, aprender novas formas de saber trabalhar com ferramentas recentes.
+
+<br>
 
 ---
 
 ### 🪛 LInguagens e Tecnologias 
+
+
 
 <img
     align = "left"
@@ -181,6 +189,7 @@ Meu nome é Isaías Correia De Morais, tenho 20 anos de idade sou natural do est
 --- 
 
 ### 📊 Estatísticas
+
 
 <p>
   <img 
