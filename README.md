@@ -57,16 +57,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 📦 [Nome do Projeto 1](https://github.com/SEU-USUARIO/projeto-1) | API REST para gerenciamento de ... | ☕ Java • 🍃 Spring Boot • 🐘 PostgreSQL |
-| 🛒 [Nome do Projeto 2](https://github.com/SEU-USUARIO/projeto-2) | Sistema de ... com autenticação JWT | ☕ Java • 🔐 Spring Security • 🐳 Docker |
-| 📅 [Nome do Projeto 3](https://github.com/SEU-USUARIO/projeto-3) | Aplicação de ... | ☕ Java • 🐬 MySQL • 🧪 JUnit |
-
----
-
 ## 📫 Vamos nos conectar?
 
 <div align="center">
