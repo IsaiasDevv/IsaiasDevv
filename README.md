@@ -1,68 +1,86 @@
-👋 Olá! Eu sou Isaías Correia de Morais
+<div align="center">
 
-💻 Desenvolvedor de Software | Back-End Java Júnior
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f89820&height=200&section=header&text=Olá,%20eu%20sou%20%20Isaías_Correia_de_Morais!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-End%20Java&descAlignY=58&descSize=18" />
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela PUC Goiás.
 
-🚀 Foco no desenvolvimento Back-End com Java e Spring Boot, aplicando boas práticas de programação, orientação a objetos, desenvolvimento de APIs RESTful e integração com bancos de dados.
+![Status](https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-success?style=for-the-badge&logo=target&logoColor=white)
+![Localização](https://img.shields.io/badge/📍-Goiás,%20Brasil-blue?style=for-the-badge)
 
-📚 Sempre buscando aprimorar meus conhecimentos, desenvolver projetos e evoluir como profissional na área de tecnologia.
+</div>
 
 ---
 
-🛠️ Tecnologias e Ferramentas
+## 👨‍💻 Sobre mim
 
-☕ Back-End
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **PUC Goiás**
+- ☕ Desenvolvedor de software com foco em **Back-End com Java**
+- 🏗️ Gosto de construir **APIs REST** robustas, escaláveis e bem documentadas
+- 🌱 Atualmente estudando: **Microsserviços, Docker e Cloud**
+- 🤝 Aberto a networking, projetos open source e novas oportunidades
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" alt="Hibernate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" alt="Maven"/>
-    
-    
+---
 
-</p>🗄️ Bancos de Dados
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
-</p>⚙️ Ferramentas e Testes
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45" alt="JUnit 5"/>
+### ☕ Back-End
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&perline=8" />
 </p>
 
-🧠 Conhecimentos
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
+</p>
 
-- Programação Orientada a Objetos (POO)
-- Desenvolvimento e consumo de APIs RESTful
-- Estruturas de Dados e Algoritmos
-- Persistência de dados com JPA e Hibernate
-- Testes automatizados com JUnit 5
-- Metodologias ágeis: Scrum e Kanban
+### ⚙️ DevOps, Versionamento e Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws&perline=8" />
+</p>
+
+### 🧰 Ferramentas do dia a dia
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,jira&perline=8" />
+</p>
 
 ---
 
-🎓 Formação
+## 📊 Estatísticas do GitHub
 
-Análise e Desenvolvimento de Sistemas
-Pontifícia Universidade Católica de Goiás — PUC Goiás.
+<div align="center">
+
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=IsaiasDevv&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-📫 Contato
+## 🚀 Projetos em Destaque
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/isaiascorreiademorais?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="isaias.devs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>⭐ Aprendendo, desenvolvendo e construindo soluções através da tecnologia.
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| 📦 [Nome do Projeto 1](https://github.com/SEU-USUARIO/projeto-1) | API REST para gerenciamento de ... | ☕ Java • 🍃 Spring Boot • 🐘 PostgreSQL |
+| 🛒 [Nome do Projeto 2](https://github.com/SEU-USUARIO/projeto-2) | Sistema de ... com autenticação JWT | ☕ Java • 🔐 Spring Security • 🐳 Docker |
+| 📅 [Nome do Projeto 3](https://github.com/SEU-USUARIO/projeto-3) | Aplicação de ... | ☕ Java • 🐬 MySQL • 🧪 JUnit |
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/isaiascorreiademorais?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="isaias.devs@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br/>
+⭐ *Se gostou do meu perfil, deixe uma estrela nos repositórios!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f89820,100:0d1117&height=120&section=footer" />
+
+</div>
