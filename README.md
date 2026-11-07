@@ -1,245 +1,68 @@
-#  👨‍💻 Isaías Dev
+👋 Olá! Eu sou Isaías Correia de Morais
 
-<br>
+💻 Desenvolvedor de Software | Back-End Java Júnior
 
-**`Formação em Desenvolvedor FullStack`**
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela PUC Goiás.
 
-<br>
+🚀 Foco no desenvolvimento Back-End com Java e Spring Boot, aplicando boas práticas de programação, orientação a objetos, desenvolvimento de APIs RESTful e integração com bancos de dados.
 
-Meu nome é Isaías Correia De Morais, tenho 20 anos de idade sou natural do estado de Goiás. Faço o curso de Análise e Desenvolvimento de Sistemas na PUC GOIÁS, sou muito envolvente por tecnologia gosto de estar atento sobre noticias, novidades da área, oportunidade de emprego, aprender novas formas de saber trabalhar com ferramentas recentes.
-
-<br>
+📚 Sempre buscando aprimorar meus conhecimentos, desenvolver projetos e evoluir como profissional na área de tecnologia.
 
 ---
 
-### 🪛 LInguagens e Tecnologias 
+🛠️ Tecnologias e Ferramentas
 
+☕ Back-End
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" alt="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" alt="Maven"/>
+    
+    
 
-<img
-    align = "left"
-    alt = "HTML"
-    title= "HTML"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+</p>🗄️ Bancos de Dados
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+</p>⚙️ Ferramentas e Testes
 
-<img 
-    align = "left"
-    alt = "CSS"
-    Title = "CSS"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img
-    align = "left"
-    alt = "JAVA-SCRIPT"
-    Title = "JAVASCRIPT"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
- />
-
- 
-<img
-    align = "left"
-    alt = "JAVA"
-    Title = "JAVA"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
- />
-
- <img 
-    align = "left"
-    alt = "DART"
-    Title = "DART"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
- />
-
-<img
-    align = "left"
-    alt = "ARDUINO"
-    Title = "ARDUINO"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
- />
-
- <img
-    align = "left"
-    alt = "FLUTTER"
-    Title = "FLUTTER"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-/>
-
-<img 
-   align = "left"
-    alt = "MYSQL"
-    Title = "MYSQL"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "REACT"
-    Title = "REACT"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "GIT"
-    Title = "GIT"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "FIGMA"
-    Title = "FIGMA"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "JUNIT5"
-    Title = "JUNIT5"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "NODEJS"
-    Title = "NODEJS"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-
-
-<img 
-    align = "left"
-    alt = "VSCODE"
-    Title = "VSCODE"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "PYTHON"
-    Title = "PYTHON"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "INTELLIJ"
-    Title = "INTELLIJ"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "ECLIPSE"
-    Title = "ECLIPSE"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "ANDROID STUDIO"
-    Title = "ANDROID STUDIO"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "BOOTSTRAP"
-    Title = "BOOTSTRAP"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-
-<img 
-    align = "left"
-    alt = "SAAS"
-    Title = "SAAS"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-/>
-
-<br>
-
-
-<br/>
-<br/>
-
---- 
-
-### 📊 Estatísticas
-
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IsaiasDevv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasDevv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45" alt="JUnit 5"/>
 </p>
 
+🧠 Conhecimentos
 
+- Programação Orientada a Objetos (POO)
+- Desenvolvimento e consumo de APIs RESTful
+- Estruturas de Dados e Algoritmos
+- Persistência de dados com JPA e Hibernate
+- Testes automatizados com JUnit 5
+- Metodologias ágeis: Scrum e Kanban
 
+---
 
-          
-          
-          
-          
-          
-                    
-             
-          
-          
+🎓 Formação
 
+Análise e Desenvolvimento de Sistemas
+Pontifícia Universidade Católica de Goiás — PUC Goiás.
 
-          
+---
+
+📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/isaiascorreiademorais?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="isaias.devs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>⭐ Aprendendo, desenvolvendo e construindo soluções através da tecnologia.
