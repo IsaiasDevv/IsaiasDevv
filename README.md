@@ -29,12 +29,12 @@
 
 ### 🗄️ Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### ⚙️ DevOps, Versionamento e Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ### 🧰 Ferramentas do dia a dia
