@@ -34,7 +34,7 @@
 
 ### ⚙️ DevOps, Versionamento e Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 ### 🧰 Ferramentas do dia a dia
